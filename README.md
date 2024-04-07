@@ -12,7 +12,7 @@ Features:
 Clone the repository to your local machine:
 bash
 Copy code
-git clone https://github.com/yourusername/image-encryption.git
+git clone https://github.com/alwaysdesires/Image_encryption.git
 Navigate to the project directory:
 arduino
 Copy code
