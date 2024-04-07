@@ -8,7 +8,7 @@ Features:
 📦 PKCS7 Padding: Applies PKCS7 padding for compatibility and security.
 🖥️ Cross-platform: Works seamlessly on Windows, macOS, and Linux.
 
-Usage:
+# Usage:
 Clone the repository to your local machine:
 bash
 Copy code
